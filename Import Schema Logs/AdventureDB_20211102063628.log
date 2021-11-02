@@ -1,0 +1,10 @@
+2/11/2021 1:36:28 p. m.	This log contains information about the import schema operation into project 'AdventureDB' on computer 'DESKTOP-B1CPEIC' by user 'dicka'.
+2/11/2021 1:36:28 p. m.	Deserializing model
+2/11/2021 1:36:29 p. m.	Resolving model
+2/11/2021 1:36:30 p. m.	Visiting imported model for types
+2/11/2021 1:36:32 p. m.	Scanning project for duplicate elements
+2/11/2021 1:36:32 p. m.	Finished duplicate element processing
+2/11/2021 1:36:52 p. m.	Processing extra files
+2/11/2021 1:36:52 p. m.	Finished importing Data-tier Application file.
+2/11/2021 1:36:52 p. m.	A summary of the import was saved to the following location: C:\Users\dicka\source\repos\AdventureDB\Import Schema Logs\AdventureDB_20211102063628.log
+2/11/2021 1:36:52 p. m.	Click Finish to continue...
